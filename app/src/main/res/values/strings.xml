@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="change_city_label">Enter new city</string>
+    <string name="city_name">City name</string>
+</resources>
